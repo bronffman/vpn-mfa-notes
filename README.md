@@ -6,7 +6,7 @@
 
 - `docs/troubleshooting.md` - порядок проверки VPN-подключения, MFA и типовых ошибок
 - `docs/tls-error.md` - диагностика ошибки SSL/TLS secure channel
-- `docs/connectivity-checks.md` - базовые сетевые проверки
+- `docs/connectivity-checks.md` - сетевые проверки
 
 ## Что не хранится в репозитории
 
