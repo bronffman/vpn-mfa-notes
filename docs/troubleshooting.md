@@ -22,6 +22,7 @@
 ```text
 Пуск → Восстановить VPN
 ```
+<img width="297" height="319" alt="{CBE136A9-7F8C-4CE6-A953-46610E034E27}" src="https://github.com/user-attachments/assets/a8861354-a4cc-41f6-87ab-c38d7b15bce4" />
 
 После восстановления проверить, появился ли профиль:
 
