@@ -6,7 +6,6 @@
 
 - `docs/troubleshooting.md` — порядок проверки VPN-подключения, MFA и типовых ошибок
 - `docs/tls-error.md` — диагностика ошибки SSL/TLS secure channel
-- `docs/escalation-template.md` — шаблон передачи заявки на следующий уровень поддержки
 
 ## Что не хранится в репозитории
 
