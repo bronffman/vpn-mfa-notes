@@ -1,15 +1,12 @@
 # VPN MFA Checklist
 
-Небольшая первичная диагностика проблем с VPN и MFA.
+Первичная диагностика проблем с VPN и MFA.
 
 ## Что внутри
 
-- `docs/vpn-checklist.md` — общий порядок проверки VPN
-- `docs/mfa-push.md` — если не приходит push в приложении MFA
-- `docs/tls-error.md` — ошибка SSL/TLS secure channel
-- `docs/access-matrix.md` — обезличенный пример матрицы доступа
-- `docs/escalation-template.md` — шаблон комментария при эскалации
-- `scripts/find-sensitive.py` — простая проверка файлов на чувствительные строки
+- `docs/troubleshooting.md` — порядок проверки VPN-подключения, MFA и типовых ошибок
+- `docs/tls-error.md` — диагностика ошибки SSL/TLS secure channel
+- `docs/escalation-template.md` — шаблон передачи заявки на следующий уровень поддержки
 
 ## Что не хранится в репозитории
 
